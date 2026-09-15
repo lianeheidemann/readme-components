@@ -29,6 +29,4 @@ A collection of custom SVG badges created for use in GitHub READMEs and project 
   </tr>
 </table>
 
-### Minimal badges
-
 
