@@ -4,6 +4,8 @@ A collection of custom SVG badges created for use in GitHub READMEs and project 
 
 ## Preview
 
+### Classic badges
+
 <table>
   <tr>
     <td align="center">
@@ -14,18 +16,21 @@ A collection of custom SVG badges created for use in GitHub READMEs and project 
       <img src="badge_under-construction_v4.svg" alt="Under Construction v4" />
       <br><sub><code>badge_under-construction_v4.svg</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="badge_under-construction_v5.svg" alt="Under Construction v5" />
       <br><sub><code>badge_under-construction_v5.svg</code></sub>
     </td>
+  </tr>
+</table>
+
+### Gear badges
+
+<table>
+  <tr>
     <td align="center">
       <img src="project-under-construction-gear.svg" alt="Project Under Construction Gear" />
       <br><sub><code>project-under-construction-gear.svg</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="project-under-construction-gear_gray.svg" alt="Project Under Construction Gear Gray" />
       <br><sub><code>project-under-construction-gear_gray.svg</code></sub>
@@ -35,20 +40,23 @@ A collection of custom SVG badges created for use in GitHub READMEs and project 
       <br><sub><code>project-under-construction-gear_yellow-e-blue.svg</code></sub>
     </td>
   </tr>
+</table>
+
+### Minimal badges
+
+<table>
   <tr>
-    <td align="center">
-      <img src="under-construction-lavanda.svg" alt="Under Construction Lavender" />
-      <br><sub><code>under-construction-lavanda.svg</code></sub>
-    </td>
     <td align="center">
       <img src="under-construction-v1.svg" alt="Under Construction v1" />
       <br><sub><code>under-construction-v1.svg</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img src="under-construction-v3.svg" alt="Under Construction v3" />
       <br><sub><code>under-construction-v3.svg</code></sub>
+    </td>
+    <td align="center">
+      <img src="under-construction-lavanda.svg" alt="Under Construction Lavender" />
+      <br><sub><code>under-construction-lavanda.svg</code></sub>
     </td>
   </tr>
 </table>
