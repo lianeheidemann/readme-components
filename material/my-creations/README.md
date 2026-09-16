@@ -30,3 +30,15 @@ A collection of custom SVG badges created for use in GitHub READMEs and project 
 </table>
 
 
+## *In Development*
+
+<table>
+ <tr>
+    <td width="180" align="center"><img src="badges/in-development-animated-v3.svg" /></td>
+    <td align="center"><img /></td>
+    <td align="center"><img /></td>
+  </tr>
+</table>
+
+
+
