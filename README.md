@@ -1,5 +1,5 @@
 <p align="center"><img src="assets/readme-components-badge/readme-components-badge-4.svg" width="280"></p>
-<p align="center"><img src="material/my_creations/badges/under-construction-lavanda.svg" width="180"></p>
+<p align="center"><img src="https://github.com/lianeheidemann/readme-components/blob/main/material/my-creations/badges/under-construction-lavanda.svg" width="180"></p>
 
 ---
 
