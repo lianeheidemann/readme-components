@@ -8,7 +8,8 @@ Guia visual: cada seção mostra a imagem renderizada e, logo abaixo, o código 
 
 ### Markdown
 
-![GitHub](https://cdn.simpleicons.org/github/white)
+<img src="https://cdn.simpleicons.org/github/white" width="30%" align="left" alt="GitHub">
+<br clear="left">
 
 ```md
 ![GitHub](https://cdn.simpleicons.org/github/white)
@@ -249,4 +250,4 @@ Parâmetros: `font`, `size`, `color`, `center`, `width`, `lines` (separadas por 
 - Sempre preencha o `alt` para acessibilidade.
 - Serviços externos (stats, streak) às vezes ficam fora do ar; para algo crítico, salve o SVG no próprio repositório.
 - Lista completa de ícones: skillicons.dev, devicon.dev e simpleicons.org.
-- 
+  
